@@ -23,6 +23,7 @@ variable "runtime" {
       "node14",
       "node12",
       "node10",
+      "python311",
       "python310",
       "python39",
       "python38",
